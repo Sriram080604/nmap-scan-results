@@ -15,8 +15,8 @@ This repository contains the results of a TCP SYN scan performed using Nmap on a
 Nmap scan report for 192.168.163.1
 Host is up (0.0011s latency).
 Not shown: 999 filtered tcp ports (no-response)
-PORT     STATE SERVICE
-6881/tcp open  bittorrent-tracker
+PORT    |  STATE| SERVICE
+6881/tcp| open  | bittorrent-tracker
 MAC Address: 00:50:56:C0:00:08 (VMware)
 
 
